@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **lakshyakhare226@gmail.com**
 
-- 📄 My Resume :   [**Lakshya_Khare_Resume**]([https://onedrive.live.com/?authkey=%21AFOSyiqTHXCZcfc&id=6005C34C6C1BF100%211474&cid=6005C34C6C1BF100&parId=root&parQt=sharedby&parCid=836941DB7C134F5C&o=OneUp](https://drive.google.com/file/d/1lWnmgLEvpO23mp2FW6G-y_XJdWMiCU-n/view)).
+- 📄 My Resume :   [**Lakshya_Khare_Resume**](https://lakshya-khare.github.io/Portfolio-site/).
 
 <br />
 
