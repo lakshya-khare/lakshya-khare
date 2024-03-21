@@ -25,7 +25,7 @@
 
 - 💬 You can reach me if you want to join dev groups.
 
-- 👨‍💻 Know about more about me and my experiences at : [**lakshyakhare.dev/portfolio**](https://EMPTY.github.io/).
+- 👨‍💻 Know about more about me and my experiences at : [**lakshyakhare.dev/portfolio**](https://lakshya-khare.github.io/Portfolio-site/).
 
 - 📫 How to reach me **lakshyakhare226@gmail.com**
 
