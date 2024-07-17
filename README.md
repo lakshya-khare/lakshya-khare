@@ -17,19 +17,19 @@
 
 - 🙏 नमस्ते I’m **@lakshya-khare**
 
-- 👀 I’m interested in learning the nexus of Tech and Codes.
+- 👀 learning the nexus of Tech and Codes.
 
 - 🌱 I’m currently learning: **DSA/FullStack/IosDevlopment/WebDevlopment/DataScience/CyberSecurity**.
 
-- 💞️ I’m looking to collaborate so that we can together elevate the digital nexus.
+- 💞️ Always open to collaborate so that we can together elevate the digital nexus.
 
-- 💬 You can reach me if you want to join dev groups.
+- 💬 You can reach me if you want to join our upcoming Projects.
 
-- 👨‍💻 Know about more about me and my experiences at : [**lakshyakhare.dev/portfolio**](https://lakshya-khare.github.io/Portfolio/).
+- 👨‍💻 Know more about my experiences at : [**lakshyakhare.dev/portfolio**](https://lakshya-khare.github.io/Portfolio/).
 
-- 📫 How to reach me **lakshyakhare226@gmail.com**
+- 📫 you can mail me on **lakshyakhare226@gmail.com**
 
-- 📄 My Resume :   [**Lakshya_Khare_Resume**](https://lakshya-khare.github.io/Portfolio-site/).
+- 📄 My Resume :   [**Lakshya_Khare_Resume**](https://drive.google.com/file/d/1sCvSSGiELbBNdGLNQXe_jaoYnPpBohVb/view?usp=drivesdk).
 
 <br />
 
